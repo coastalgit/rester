@@ -1,0 +1,212 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "siteid": 1000,
+      "name": "Alice Anders",
+      "email": "aa@MyHotel.com",
+      "group": "Reception",
+      "dialnumber": "+44123455555"
+    },
+    {
+      "id": 2,
+      "siteid": 1001,
+      "name": "Ben Brown",
+      "email": "bb@MyHotel.com",
+      "group": "Concierge",
+      "dialnumber": "+44123455555"
+    },
+    {
+      "id": 3,
+      "siteid": 1000,
+      "name": "Colin Charles",
+      "email": "cc@MyHotel.com",
+      "group": "Reception",
+      "dialnumber": "+44123455555"
+    },
+    {
+      "id": 4,
+      "siteid": 1001,
+      "name": "Debbie Dickson",
+      "email": "dd@MyHotel.com",
+      "group": "Housekeeping",
+      "dialnumber": "+44123455555"
+    },
+    {
+      "id": 5,
+      "siteid": 1001,
+      "name": "Eddie Edwin",
+      "email": "ee@MyHotel.com",
+      "group": "Food & Beverage",
+      "dialnumber": "+44123455555"
+    },
+    {
+      "id": 6,
+      "siteid": 1000,
+      "name": "Fred Flintoff",
+      "email": "ff@MyHotel.com",
+      "group": "Reception",
+      "dialnumber": "+44123455555"
+    },
+    {
+      "id": 7,
+      "siteid": 1001,
+      "name": "Gordon Gecko",
+      "email": "gg@MyHotel.com",
+      "group": "Operator",
+      "dialnumber": "+44123455555"
+    },
+    {
+      "id": 8,
+      "siteid": 1001,
+      "name": "Harry Henson",
+      "email": "hh@MyHotel.com",
+      "group": "Housekeeping",
+      "dialnumber": "+44123455555"
+    },
+    {
+      "id": 9,
+      "siteid": 1001,
+      "name": "Ian Innes",
+      "email": "ii@MyHotel.com",
+      "group": "Food & Beverage",
+      "dialnumber": "+44123455555"
+    },
+    {
+      "id": 10,
+      "siteid": 1000,
+      "name": "Jenny Jackson",
+      "email": "jj@MyHotel.com",
+      "group": "Housekeeping",
+      "dialnumber": "+44123455555"
+    },
+    {
+      "id": 11,
+      "siteid": 1001,
+      "name": "Kathleen Kerry",
+      "email": "kk@MyHotel.com",
+      "group": "Housekeeping",
+      "dialnumber": "+44123455555"
+    },
+    {
+      "id": 12,
+      "siteid": 1001,
+      "name": "Larry Lemon",
+      "email": "ll@MyHotel.com",
+      "group": "Reception",
+      "dialnumber": "+44123455555"
+    },
+    {
+      "id": 13,
+      "siteid": 1000,
+      "name": "Mary Manson",
+      "email": "mm@MyHotel.com",
+      "group": "Operator",
+      "dialnumber": "+44123455555"
+    },
+    {
+      "id": 14,
+      "siteid": 1001,
+      "name": "Norman Nelson",
+      "email": "nn@MyHotel.com",
+      "group": "Housekeeping",
+      "dialnumber": "+44123455555"
+    },
+    {
+      "id": 15,
+      "siteid": 1001,
+      "name": "Oliver Olsen",
+      "email": "oo@MyHotel.com",
+      "group": "Food & Beverage",
+      "dialnumber": "+44123455555"
+    },
+    {
+      "id": 16,
+      "siteid": 1001,
+      "name": "Pauline Pendergast",
+      "email": "nn@MyHotel.com",
+      "group": "Medical",
+      "dialnumber": "+44123455555"
+    },
+    {
+      "id": 17,
+      "siteid": 1001,
+      "name": "Quentin Quincy",
+      "email": "qq@MyHotel.com",
+      "group": "Reception",
+      "dialnumber": "+44123455555"
+    },
+    {
+      "id": 18,
+      "siteid": 1001,
+      "name": "Raymond Ronson",
+      "email": "rr@MyHotel.com",
+      "group": "Operator",
+      "dialnumber": "+44123455555"
+    },
+    {
+      "id": 19,
+      "siteid": 1001,
+      "name": "Simon Stenson",
+      "email": "ss@MyHotel.com",
+      "group": "Operator",
+      "dialnumber": "+44123455555"
+    },
+    {
+      "id": 20,
+      "siteid": 1001,
+      "name": "Tina Turner",
+      "email": "tt@MyHotel.com",
+      "group": "Accounting",
+      "dialnumber": "+44123455555"
+    },
+    {
+      "id": 21,
+      "siteid": 1001,
+      "name": "Ursulla Undrass",
+      "email": "uu@MyHotel.com",
+      "group": "Reception",
+      "dialnumber": "+44123455555"
+    },
+    {
+      "id": 22,
+      "siteid": 1001,
+      "name": "Victoria Vincenza",
+      "email": "vv@MyHotel.com",
+      "group": "Food & Beverage",
+      "dialnumber": "+44123455555"
+    },
+    {
+      "id": 23,
+      "siteid": 1001,
+      "name": "Walter White",
+      "email": "ww@MyHotel.com",
+      "group": "Medical",
+      "dialnumber": "+44123455555"
+    },
+    {
+      "id": 24,
+      "siteid": 1001,
+      "name": "Xena Xadrez",
+      "email": "xx@MyHotel.com",
+      "group": "Accounting",
+      "dialnumber": "+44123455555"
+    },
+    {
+      "id": 25,
+      "siteid": 1001,
+      "name": "Yani Yussef",
+      "email": "yy@MyHotel.com",
+      "group": "Concierge",
+      "dialnumber": "+44123455555"
+    },
+    {
+      "id": 26,
+      "siteid": 1001,
+      "name": "Ziggy Zapper",
+      "email": "zz@MyHotel.com",
+      "group": "Accounting",
+      "dialnumber": "+44123455555"
+    }
+  ]
+}
