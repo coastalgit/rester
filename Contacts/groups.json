@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "id": 1,
+      "name": "Concierge",
+    },
+    {
+      "id": 2,
+      "name": "Reception",
+    },
+    {
+      "id": 3,
+      "name": "Housekeeping",
+    },
+    {
+      "id": 4,
+      "name": "Food & Beverage",
+    },
+    {
+      "id": 5,
+      "name": "Operator",
+    },
+    {
+      "id": 6,
+      "name": "Medical",
+    },
+    {
+      "id": 7,
+      "name": "Accounting",
+    }
+  ]
+}
