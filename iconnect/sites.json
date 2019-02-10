@@ -1,0 +1,12 @@
+{
+  "sites": [
+    {
+      "id": 1000,
+      "name": "Hotel A"
+    },
+    {
+      "id": 1001,
+      "name": "Hotel B"
+    }
+  ]
+}
