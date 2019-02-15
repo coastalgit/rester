@@ -11,8 +11,8 @@
     {
       "id": 2,
       "siteid": 1001,
-      "name": "Ben Brown",
-      "email": "bb@MyHotel.com",
+      "name": "Ben Brown (no email)",
+      "email": "",
       "groupid": 1,
       "dialnumber": "+44123455555"
     },
