@@ -1,0 +1,59 @@
+{
+  "meds": [
+    {
+      "type": "Beclomethasone",
+      "note1": "Inhaler",
+      "note2": "100 MICROGRAMS/PUFF",
+      "repeat": "true",
+      "lastissue": "2019-03-03T14:24:33",
+      "schedule": [
+        {
+          "time": "09:00",
+          "instruction": "3 puffs"
+        },
+        {
+          "time": "14:00",
+          "instruction": "Optional 3 puffs"
+        },
+        {
+          "time": "20:00",
+          "instruction": "3 puffs"
+        }
+      ]
+    },
+    {
+      "type": "Amiodarone",
+      "note1": "Tablets",
+      "note2": "200 MG",
+      "repeat": "false",
+      "lastissue": "2019-02-25T10:00:00",
+      "schedule": [
+        {
+          "time": "08:00",
+          "instruction": "Take 1 (300mg) tablet by mouth"
+        },
+        {
+          "time": "15:00",
+          "instruction": "Take 1 (300mg) tablet by mouth"
+        }
+      ]
+    },
+    {
+      "type": "Paracetamol",
+      "note1": "Tablets",
+      "note2": "500 MG",
+      "repeat": "false",
+      "lastissue": "2019-02-25T10:00:00",
+      "schedule": [
+        {
+          "time": "10:00",
+          "instruction": "Take 2 (1000 MG)"
+        },
+        {
+          "time": "20:00",
+          "instruction": "(Optional) Take 2  (1000 MG)"
+        }
+      ]
+    }
+  ]
+}

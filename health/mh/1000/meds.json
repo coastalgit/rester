@@ -1,0 +1,55 @@
+{
+  "meds": [
+    {
+      "type": "Gabapentin",
+      "note1": "Tablets (16 units)",
+      "note2": "300 MG",
+      "repeat": "true",
+      "lastissue": "2019-03-03T14:24:33",
+      "schedule": [
+        {
+          "time": "08:00",
+          "instruction": "Take 1 (300 MG) tablet by mouth"
+        },
+        {
+          "time": "15:00",
+          "instruction": "Take 1 (300 MG) tablet by mouth"
+        }
+      ]
+    },
+    {
+      "type": "Salbutorol",
+      "note1": "Inhaler CFC-free (1 unit)",
+      "note2": "100 MICROGRAMS/PUFF",
+      "repeat": "false",
+      "lastissue": "2019-03-03T14:24:33",
+      "schedule": [
+        {
+          "time": "09:00",
+          "instruction": "3 puffs"
+        },
+        {
+          "time": "18:00",
+          "instruction": "(Optional) 3 puffs"
+        }
+      ]
+    },
+    {
+      "type": "Aspirin",
+      "note1": "Tablets (36 units)",
+      "note2": "75 MG",
+      "repeat": "false",
+      "lastissue": "2019-03-05T11:24:33",
+      "schedule": [
+        {
+          "time": "10:00",
+          "instruction": "Take 2 (150 MG)"
+        },
+        {
+          "time": "21:00",
+          "instruction": "(Optional) Take 2  (150 MG)"
+        }
+      ]
+    }
+  ]
+}
