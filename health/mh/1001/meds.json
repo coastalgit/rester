@@ -2,7 +2,7 @@
   "meds": [
     {
       "type": "Beclomethasone",
-      "note1": "Inhaler",
+      "note1": "Inhaler (1 unit)",
       "note2": "100 MICROGRAMS/PUFF",
       "repeat": "true",
       "lastissue": "2019-03-03T14:24:33",
@@ -23,7 +23,7 @@
     },
     {
       "type": "Amiodarone",
-      "note1": "Tablets",
+      "note1": "Tablets (28 units)",
       "note2": "200 MG",
       "repeat": "false",
       "lastissue": "2019-02-25T10:00:00",
@@ -40,7 +40,7 @@
     },
     {
       "type": "Paracetamol",
-      "note1": "Tablets",
+      "note1": "Tablets (32 units)",
       "note2": "500 MG",
       "repeat": "false",
       "lastissue": "2019-02-25T10:00:00",
@@ -52,6 +52,23 @@
         {
           "time": "20:00",
           "instruction": "(Optional) Take 2  (1000 MG)"
+        }
+      ]
+    },
+    {
+      "type": "Naproxen",
+      "note1": "Tablets (28 units)",
+      "note2": "500 MG",
+      "repeat": "false",
+      "lastissue": "2019-02-01T09:15:00",
+      "schedule": [
+        {
+          "time": "09:00",
+          "instruction": "Take 1 (500 MG) after food"
+        },
+        {
+          "time": "21:00",
+          "instruction": "(Optional) Take 1 (500 MG) after food"
         }
       ]
     }

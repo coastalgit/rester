@@ -29,8 +29,29 @@
           "instruction": "3 puffs"
         },
         {
-          "time": "18:00",
+          "time": "15:00",
           "instruction": "(Optional) 3 puffs"
+        },
+        {
+          "time": "21:00",
+          "instruction": "1 puff"
+        }
+      ]
+    },
+    {
+      "type": "Naproxen",
+      "note1": "Tablets (28 units)",
+      "note2": "500 MG",
+      "repeat": "false",
+      "lastissue": "2019-02-01T09:15:00",
+      "schedule": [
+        {
+          "time": "09:00",
+          "instruction": "Take 1 (500 MG) after food"
+        },
+        {
+          "time": "21:00",
+          "instruction": "(Optional) Take 1 (500 MG) after food"
         }
       ]
     },
