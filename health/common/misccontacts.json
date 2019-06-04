@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "ident": "IDSELFHELP",
+      "title": "111 ONLINE",
+      "subtitle": "Get medical help near you",
+      "phone1": "5742157",
+      "email1": "ukmiccdemo+pat@gmail.com",
+      "sms1": "01212851847",
+      "linktext1": "SELF HELP ONLINE",
+      "linkurl1": "https://111.nhs.uk/",
+      "note1": "Online assistance and nurse call backs available.",
+      "note2": ""
+    },
+    {
+      "ident": "IDEMERGENCY",
+      "title": "EMERGENCY SERVICES",
+      "subtitle": "CALL 999",
+      "phone1": "5742157",
+      "email1": "",
+      "sms1": ""
+      "linktext1": "When to call emergency services"
+      "linkurl1": "https://www.nhs.uk/using-the-nhs/nhs-services/urgent-and-emergency-care/when-to-call-999/"
+      "note1": "999"
+      "note2": ""
+    },
+  ]
+}
